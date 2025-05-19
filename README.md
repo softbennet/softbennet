@@ -1,28 +1,28 @@
 <h1 align="center">Hi 👋, I'm Soft Bennet</h1>
 <h3 align="center">A potentail full stack developer from USA</h3>
-<p align="center">
-🧱 I. The Builder (Full-Stack Dev)        
-  I craft the web with lines of code,                            
-  From APIs to front-end load.                           
-  With React eyes and Python hands,                                    
-  I birth wild dreams from vague demands.                           
 
-  I merge, I branch, I test, I ship,                                 
-  And whisper softly, "Please don't rip."                 
-  The bugs may bite, the users moan —                           
-  Still, every page feels like my own.                 
+<p align="center">🧱 I. The Builder (Full-Stack Dev) </p>       
+  <p align="center">I craft the web with lines of code,</p>                              
+  <p align="center">From APIs to front-end load.      </p>                       
+  <p align="center">With React eyes and Python hands,</p>                                      
+  <p align="center">I birth wild dreams from vague demands. </p>                            
 
-🧠 II. The Thinker (AI Whisperer)      
-  I feed the bot with zeros, ones,
-  It learns, it stares — no jokes or puns.
-  A neural net with hidden pride,
-  Predicts the trends I try to hide.
+  <p align="center">I merge, I branch, I test, I ship,      </p>                             
+  <p align="center">And whisper softly, "Please don't rip."    </p>               
+  <p align="center">The bugs may bite, the users moan —       </p>                      
+  <p align="center">Still, every page feels like my own.     </p>              
 
-  I ask it questions, it replies,
-  With graphs and guesses, not with lies.
-  A thousand epochs, loss goes low —  
-  I cheer aloud, alone. I know. 
-</p>
+<p align="center">🧠 II. The Thinker (AI Whisperer)     </p>   
+  <p align="center">I feed the bot with zeros, ones,</p>  
+  <p align="center">It learns, it stares — no jokes or puns.</p>  
+  <p align="center">A neural net with hidden pride,</p>  
+  <p align="center">Predicts the trends I try to hide.</p>  
+
+  <p align="center">I ask it questions, it replies,</p>  
+  <p align="center">With graphs and guesses, not with lies.</p>  
+  <p align="center">A thousand epochs, loss goes low —  </p>  
+  <p align="center">I cheer aloud, alone. I know. </p>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softbennet&label=Profile%20views&color=0e75b6&style=flat" alt="softbennet" /> </p>
 - 🔭 I'm a Senior Full Stack Developer, AI Expert and Trader.
 
