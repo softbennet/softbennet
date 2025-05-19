@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Soft Bennet</h1>
 <h3 align="center">A potentail full stack developer from USA</h3>
 
-🧱 I. The Builder (Full-Stack Dev)            🧠 II. The Thinker (AI Whisperer)                📈 III. The Trader (Market Poet)
+🧱 I. The Builder (Full-Stack Dev)                🧠 II. The Thinker (AI Whisperer)                
 
-  I craft the web with lines of code,             I feed the bot with zeros, ones,                 The chart is life, the trade’s a test,
-  From APIs to front-end load.                    It learns, it stares — no jokes or puns.         I chase the green, I hedge the rest.
-  With React eyes and Python hands,               A neural net with hidden pride,                  Support, resistance — lovers' dance,
-  I birth wild dreams from vague demands.         Predicts the trends I try to hide.               A breakout whispers, "Take the chance."
+  I craft the web with lines of code,                 I feed the bot with zeros, ones,              
+  From APIs to front-end load.                        It learns, it stares — no jokes or puns.       
+  With React eyes and Python hands,                   A neural net with hidden pride,                  
+  I birth wild dreams from vague demands.             Predicts the trends I try to hide.               
 
-  I merge, I branch, I test, I ship,              I ask it questions, it replies,                  My stop-loss waits like heartbreak's end,
-  And whisper softly, "Please don't rip."         With graphs and guesses, not with lies.          While gains and losses twist and bend.
-  The bugs may bite, the users moan —             A thousand epochs, loss goes low —               And still I trade, with hope and flair —
-  Still, every page feels like my own.            I cheer aloud, alone. I know.                    Because the market knows I care.
+  I merge, I branch, I test, I ship,                  I ask it questions, it replies,                 
+  And whisper softly, "Please don't rip."             With graphs and guesses, not with lies.        
+  The bugs may bite, the users moan —                 A thousand epochs, loss goes low —              
+  Still, every page feels like my own.                I cheer aloud, alone. I know.    
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softbennet&label=Profile%20views&color=0e75b6&style=flat" alt="softbennet" /> </p>
 - 🔭 I'm a Senior Full Stack Developer, AI Expert and Trader.
