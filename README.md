@@ -20,7 +20,7 @@
 
 &nbsp;&nbsp;&nbsp;  I ask it questions, it replies, 
 &nbsp;&nbsp;&nbsp;  With graphs and guesses, not with lies. 
-&nbsp;&nbsp;&nbsp;  A thousand epochs, loss goes low —   
+&nbsp;&nbsp;&nbsp;  A thousand epochs, loss goes low —
 &nbsp;&nbsp;&nbsp;  I cheer aloud, alone. I know.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softbennet&label=Profile%20views&color=0e75b6&style=flat" alt="softbennet" /> </p>
