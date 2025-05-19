@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soft Bennet</h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h3 align="center">A potentail full stack developer from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softbennet&label=Profile%20views&color=0e75b6&style=flat" alt="softbennet" /> </p>
 - 🔭 I'm a Senior Full Stack Developer, AI Expert and Trader.
