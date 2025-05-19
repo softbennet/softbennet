@@ -3,7 +3,7 @@
 
 🧱 I. The Builder (Full-Stack Dev)--------------------------🧠 II. The Thinker (AI Whisperer)                
 
-  I craft the web with lines of code,&nbsp&nbsp&nbsp&nbsp&nbsp&nbspI feed the bot with zeros, ones,              
+  I craft the web with lines of code,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I feed the bot with zeros, ones,              
   From APIs to front-end load.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspIt learns, it stares — no jokes or puns.       
   With React eyes and Python hands,&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp A neural net with hidden pride,                  
   I birth wild dreams from vague demands.&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPredicts the trends I try to hide.               
