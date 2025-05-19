@@ -1,31 +1,28 @@
 <h1 align="center">Hi 👋, I'm Soft Bennet</h1>
 <h3 align="center">A potentail full stack developer from USA</h3>
-<div>
-  <div width = "50%">
-<p align="center">🧱 I. The Builder (Full-Stack Dev) </p>       
-  <p align="center">I craft the web with lines of code,</p>                              
-  <p align="center">From APIs to front-end load.      </p>                       
-  <p align="center">With React eyes and Python hands,</p>                                      
-  <p align="center">I birth wild dreams from vague demands. </p>                            
 
-  <p align="center">I merge, I branch, I test, I ship,      </p>                             
-  <p align="center">And whisper softly, "Please don't rip."    </p>               
-  <p align="center">The bugs may bite, the users moan —       </p>                      
-  <p align="center">Still, every page feels like my own.     </p>              
-</div>
-<div width = "50%">
-<p align="center">🧠 II. The Thinker (AI Whisperer)     </p>   
-  <p align="center">I feed the bot with zeros, ones,</p>  
-  <p align="center">It learns, it stares — no jokes or puns.</p>  
-  <p align="center">A neural net with hidden pride,</p>  
-  <p align="center">Predicts the trends I try to hide.</p>  
+🧱 I. The Builder (Full-Stack Dev)   
+&nbsp;&nbsp;&nbsp;  I craft the web with lines of code,                             
+&nbsp;&nbsp;&nbsp;  From APIs to front-end load.                          
+&nbsp;&nbsp;&nbsp;  With React eyes and Python hands,                                     
+&nbsp;&nbsp;&nbsp;  I birth wild dreams from vague demands.                           
 
-  <p align="center">I ask it questions, it replies,</p>  
-  <p align="center">With graphs and guesses, not with lies.</p>  
-  <p align="center">A thousand epochs, loss goes low —  </p>  
-  <p align="center">I cheer aloud, alone. I know. </p>  
-  </div>
-</div>
+&nbsp;&nbsp;&nbsp;  I merge, I branch, I test, I ship,                                
+&nbsp;&nbsp;&nbsp;  And whisper softly, "Please don't rip."                 
+&nbsp;&nbsp;&nbsp;  The bugs may bite, the users moan —                           
+&nbsp;&nbsp;&nbsp;  Still, every page feels like my own.                 
+
+🧠 II. The Thinker (AI Whisperer)       
+&nbsp;&nbsp;&nbsp;  I feed the bot with zeros, ones,
+&nbsp;&nbsp;&nbsp;  It learns, it stares — no jokes or puns.
+&nbsp;&nbsp;&nbsp;  A neural net with hidden pride,
+&nbsp;&nbsp;&nbsp;  Predicts the trends I try to hide.
+
+&nbsp;&nbsp;&nbsp;  I ask it questions, it replies, 
+&nbsp;&nbsp;&nbsp;  With graphs and guesses, not with lies. 
+&nbsp;&nbsp;&nbsp;  A thousand epochs, loss goes low —   
+&nbsp;&nbsp;&nbsp;  I cheer aloud, alone. I know.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softbennet&label=Profile%20views&color=0e75b6&style=flat" alt="softbennet" /> </p>
 - 🔭 I'm a Senior Full Stack Developer, AI Expert and Trader.
 
