@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soft Bennet</h1>
 <h3 align="center">A potentail full stack developer from USA</h3>
-
-🧱 I. The Builder (Full-Stack Dev)--------------------------            
+<p align="center">
+🧱 I. The Builder (Full-Stack Dev)        
   I craft the web with lines of code,                            
   From APIs to front-end load.                           
   With React eyes and Python hands,                                    
@@ -22,7 +22,7 @@
   With graphs and guesses, not with lies.
   A thousand epochs, loss goes low —  
   I cheer aloud, alone. I know. 
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softbennet&label=Profile%20views&color=0e75b6&style=flat" alt="softbennet" /> </p>
 - 🔭 I'm a Senior Full Stack Developer, AI Expert and Trader.
 
