@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soft Bennet</h1>
 <h3 align="center">A potentail full stack developer from USA</h3>
-
+<div>
+  <div width = "50%">
 <p align="center">🧱 I. The Builder (Full-Stack Dev) </p>       
   <p align="center">I craft the web with lines of code,</p>                              
   <p align="center">From APIs to front-end load.      </p>                       
@@ -11,7 +12,8 @@
   <p align="center">And whisper softly, "Please don't rip."    </p>               
   <p align="center">The bugs may bite, the users moan —       </p>                      
   <p align="center">Still, every page feels like my own.     </p>              
-
+</div>
+<div width = "50%">
 <p align="center">🧠 II. The Thinker (AI Whisperer)     </p>   
   <p align="center">I feed the bot with zeros, ones,</p>  
   <p align="center">It learns, it stares — no jokes or puns.</p>  
@@ -22,7 +24,8 @@
   <p align="center">With graphs and guesses, not with lies.</p>  
   <p align="center">A thousand epochs, loss goes low —  </p>  
   <p align="center">I cheer aloud, alone. I know. </p>  
-
+  </div>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softbennet&label=Profile%20views&color=0e75b6&style=flat" alt="softbennet" /> </p>
 - 🔭 I'm a Senior Full Stack Developer, AI Expert and Trader.
 
